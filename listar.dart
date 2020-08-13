@@ -8,8 +8,8 @@ void main() {
     [0,0,2]
   ];
   esTriangularSuperior(ejemplo); */
-  var cuadradoMagico = obtenerCuadradoMagico(3);
-  imprimirLista(cuadradMagico);
+ /*  var cuadradoMagico = obtenerCuadradoMagico(3);
+  imprimirLista(cuadradMagico); */
 }
 List restaMatrices(var m1, var m2){
   List respuesta = [];
